@@ -33,6 +33,7 @@ This project simulates a credential-harvesting phishing attack in a **controlled
 - IP configurations for all VMs
 - Victim interacting with the phishing page
   ![Image](https://github.com/user-attachments/assets/457e4523-c63f-4892-97c6-f9223967dbb9)
+- Credential Harvest and exported report
 
 ## 🧠 Skills Demonstrated
 - Ethical hacking methodology
