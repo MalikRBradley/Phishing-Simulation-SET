@@ -35,6 +35,8 @@ This project simulates a credential-harvesting phishing attack in a **controlled
 - Victim interacting with the phishing page
   ![Image](https://github.com/user-attachments/assets/457e4523-c63f-4892-97c6-f9223967dbb9)
 - Credential Harvest and exported report
+  ![Image](https://github.com/user-attachments/assets/9ea33b56-8134-4fbc-a9a0-61b5d5eff24b)
+
 
 ## 🧠 Skills Demonstrated
 - Ethical hacking methodology
