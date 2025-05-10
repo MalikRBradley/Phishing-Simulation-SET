@@ -28,8 +28,8 @@ This project simulates a credential-harvesting phishing attack in a **controlled
 ---
 
 ## 📷 Screenshots
-- Kali running SET
-  ![Image](https://github.com/user-attachments/assets/ae972dda-8f19-4ce8-940f-0be325fa7828)
+### Kali running SET
+![Kali running SET](https://github.com/user-attachments/assets/ae972dda-8f19-4ce8-940f-0be325fa7828)
 - IP configurations for all VMs
 - Victim interacting with the phishing page
   ![Image](https://github.com/user-attachments/assets/457e4523-c63f-4892-97c6-f9223967dbb9)
