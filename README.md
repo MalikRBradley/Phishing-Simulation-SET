@@ -32,6 +32,8 @@ This project simulates a credential-harvesting phishing attack in a **controlled
   ![Image](https://github.com/user-attachments/assets/dea5fb07-bef0-409b-afba-2662aa2b42bf)
   ![Image](https://github.com/user-attachments/assets/fd589022-a50f-44dc-a7c4-5bef6dca66f5)
 - IP configurations for all VMs
+  ![Image](https://github.com/user-attachments/assets/8822eadd-130d-49f4-9675-3decfe6d0994)
+  ![Image](https://github.com/user-attachments/assets/2e2ff093-b51c-41e9-a93d-341294b73738)
 - Victim interacting with the phishing page
   ![Image](https://github.com/user-attachments/assets/457e4523-c63f-4892-97c6-f9223967dbb9)
 - Credential Harvest and exported report
