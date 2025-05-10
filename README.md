@@ -55,7 +55,20 @@ This project simulates a credential-harvesting phishing attack in a **controlled
 ## 🧾 Report Reference
 XML report was generated at:  
 `/root/.set/reports/2025-05-10-08:25:54.592784.xml`
+<details>
+<summary>📄 View Captured Credentials (XML Output)</summary>
 
+```xml
+<harvester>
+  URL=http://testphp.vulnweb.com/login.php
+  <url>
+    <param>uname=testuser</param>
+    <param>pass=password123</param>
+  </url>
+</harvester>
+```
+
+</details>
 ---
 
 ## ✅ Next Steps
